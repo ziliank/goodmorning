@@ -3,7 +3,7 @@ from time import localtime
 from requests import get, post
 from datetime import datetime, date
 
-from spyder.plugins.completion.providers.languageserver.decorators import send_message
+
 from zhdate import ZhDate
 import sys
 import os
